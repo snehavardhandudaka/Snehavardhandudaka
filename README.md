@@ -19,24 +19,31 @@ Here are some of my real-time capstone projects:
 
 1. Automate Kubernetes Deployment
    - Automates the deployment of applications in Kubernetes clusters.
+   - https://github.com/snehavardhandudaka/Automate_Kubernetes_Deployment.git
 
 2. WEBSITE MONITORING AND RECOVERY
    - Monitors website performance and automates recovery processes.
+   - https://github.com/snehavardhandudaka/WEBSITE-MONITORING-AND-RECOVERY.git
 
 3. Deploy Microservices application in Kubernetes with Production Security Best Practices
    - Deploys microservices applications in Kubernetes with a focus on security best practices.
+   - https://github.com/snehavardhandudaka/Deploy-Microservices-application-in-Kubernetes-with-Production- 
+     Security-Best-Practices.git
 
 4. Complete CI-CD with Terraform
    - Implements a complete CI/CD pipeline using Terraform.
+   - https://github.com/snehavardhandudaka/Complete-CI-CD-with-Terraform.git
 
 5. Ansible Integration in Jenkins
    - Integrates Ansible with Jenkins for automated configuration management.
+   - https://github.com/snehavardhandudaka/Ansible-Integration-in-Jenkins.git
 
 6. Complete CI-CD Pipeline with EKS and AWS ECR
    - Sets up a complete CI/CD pipeline using EKS and AWS ECR.
+   - https://github.com/snehavardhandudaka/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR.git
 
 ## Contact
-- **LinkedIn**: Sneha Vardhan Dudaka
+- **LinkedIn**: https://www.linkedin.com/in/sneha-vardhan-dudaka-1357a2259/
 - **Email**: snehavardhan1996@gmail.com
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
