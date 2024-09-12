@@ -1,24 +1,46 @@
-# 💻 DevOps Engineer | Cloud Enthusiast
+# Hi there, I'm Sneha Vardhan Dudaka 👋
 
-![DevOps](https://user-images.githubusercontent.com/your-image-link-here)
+## About Me
+I'm a DevOps Engineer with 4 years of experience in building and managing infrastructure and CI/CD pipelines. I have a passion for automation, cloud computing, and continuous improvement.
 
-Hi! I'm a **DevOps Engineer** with a passion for automating, optimizing, and securing cloud infrastructures. With expertise in AWS, Docker, Kubernetes, Python, Golang, Terraform, Ansible, and Prometheus, I thrive in building scalable and resilient systems.
+## Skills and Tools
+- **Languages**: Python, Bash, JavaScript, MATLAB, SQL, Groovy
+- **Configuration Management**: Ansible, Puppet, Chef
+- **Container Orchestration**: Docker, Kubernetes, OpenShift, Helm
+- **CI/CD Tools**: Jenkins, GitLab CI/CD, CircleCI
+- **Cloud Services**: AWS (EC2, S3, EKS, RDS, DynamoDB, CloudFormation)
+- **Networking and Security**: VPC, IAM, Load Balancers, Firewalls
+- **Monitoring and Logging**: Prometheus, Grafana, ELK, Datadog
+- **Infrastructure as Code**: Terraform
+- **Agile Methodologies**: Scrum, Kanban (JIRA, Confluence)
 
-## 🔧 **Skills**
+## Projects
+Here are some of my real-time capstone projects:
 
-- **Cloud Platforms:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-- **Containers:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-- **Programming Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-- **Infrastructure as Code:** ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-- **Monitoring:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+1. Automate Kubernetes Deployment
+   - Automates the deployment of applications in Kubernetes clusters.
 
-## 📫 **Contact**
+2. WEBSITE MONITORING AND RECOVERY
+   - Monitors website performance and automates recovery processes.
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sneha-vardhan-dudaka-1357a2259/) or [Email](mailto:snehavardhan1996@gmail.com) for any inquiries, collaborations, or just to say hi!
+3. Deploy Microservices application in Kubernetes with Production Security Best Practices
+   - Deploys microservices applications in Kubernetes with a focus on security best practices.
+
+4. Complete CI-CD with Terraform
+   - Implements a complete CI/CD pipeline using Terraform.
+
+5. Ansible Integration in Jenkins
+   - Integrates Ansible with Jenkins for automated configuration management.
+
+6. Complete CI-CD Pipeline with EKS and AWS ECR
+   - Sets up a complete CI/CD pipeline using EKS and AWS ECR.
+
+## Contact
+- **LinkedIn**: Sneha Vardhan Dudaka
+- **Email**: snehavardhan1996@gmail.com
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 ---
 
-*Let's build the future of DevOps together!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-
+Thanks for visiting my GitHub profile! 😊
