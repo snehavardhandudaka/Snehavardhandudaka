@@ -27,8 +27,7 @@ Here are some of my real-time capstone projects:
 
 3. Deploy Microservices application in Kubernetes with Production Security Best Practices
    - Deploys microservices applications in Kubernetes with a focus on security best practices.
-   - https://github.com/snehavardhandudaka/Deploy-Microservices-application-in-Kubernetes-with-Production- 
-     Security-Best-Practices.git
+   - https://github.com/snehavardhandudaka/Deploy-Microservices-application-in-Kubernetes-with-Production-Security-Best-Practices.git
 
 4. Complete CI-CD with Terraform
    - Implements a complete CI/CD pipeline using Terraform.
