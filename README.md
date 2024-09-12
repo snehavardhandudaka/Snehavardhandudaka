@@ -1,44 +1,46 @@
-👋 Hi, I'm Sneha Vardhan Dudaka!
-🚀 DevOps Engineer | Cloud & Automation Enthusiast
-I'm a DevOps Engineer with over 9 years of experience in designing, automating, and optimizing mission-critical deployments in the cloud. My expertise lies in creating seamless CI/CD pipelines, containerization, orchestration with Kubernetes, and leveraging tools like Terraform, Jenkins, Ansible, and cloud platforms such as AWS and Azure.
+# Hi there, I'm Sneha Vardhan Dudaka 👋
 
-I specialize in bringing together development and operations to create high-performance, scalable, and resilient systems. Below are some of my real-time projects that demonstrate my DevOps journey.
+## About Me
+I'm a DevOps Engineer with 4 years of experience in building and managing infrastructure and CI/CD pipelines. I have a passion for automation, cloud computing, and continuous improvement.
 
-🛠️ Tools & Technologies
-DevOps & CI/CD:
-Jenkins, GitLab CI/CD, GitHub Actions, Nexus, SonarQube
-Containerization & Orchestration:
-Docker, Kubernetes (EKS, AKS, GKE), Helm
-Infrastructure as Code (IaC):
-Terraform, CloudFormation, AWS CDK
-Cloud Platforms:
-AWS, Azure, Linode
-Configuration Management:
-Ansible, Chef, Puppet
-Monitoring & Logging:
-Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
-Programming & Scripting:
-Python, Bash, Golang
-🌟 Featured Projects
+## Skills and Tools
+- **Languages**: Python, Bash, JavaScript, MATLAB, SQL, Groovy
+- **Configuration Management**: Ansible, Puppet, Chef
+- **Container Orchestration**: Docker, Kubernetes, OpenShift, Helm
+- **CI/CD Tools**: Jenkins, GitLab CI/CD, CircleCI
+- **Cloud Services**: AWS (EC2, S3, EKS, RDS, DynamoDB, CloudFormation)
+- **Networking and Security**: VPC, IAM, Load Balancers, Firewalls
+- **Monitoring and Logging**: Prometheus, Grafana, ELK, Datadog
+- **Infrastructure as Code**: Terraform
+- **Agile Methodologies**: Scrum, Kanban (JIRA, Confluence)
+
+## Projects
+Here are some of my real-time capstone projects:
+
 1. Automate Kubernetes Deployment
-Deploying Kubernetes clusters using Terraform and automating application deployments with Ansible.
+   - Automates the deployment of applications in Kubernetes clusters.
 
-2. Website Monitoring and Recovery
-Monitoring websites using Python and Docker, automating recovery if the site goes down, with real-time alerts.
+2. WEBSITE MONITORING AND RECOVERY
+   - Monitors website performance and automates recovery processes.
 
-3. Microservices Deployment with Security Best Practices
-Deploying microservices with Kubernetes, focusing on production security (RBAC, Network Policies, etc.).
+3. Deploy Microservices application in Kubernetes with Production Security Best Practices
+   - Deploys microservices applications in Kubernetes with a focus on security best practices.
 
-4. Complete CI/CD with Terraform
-Creating a CI/CD pipeline that automates infrastructure provisioning using Terraform and deploying applications on AWS.
+4. Complete CI-CD with Terraform
+   - Implements a complete CI/CD pipeline using Terraform.
 
 5. Ansible Integration in Jenkins
-Integrating Ansible with Jenkins to automate infrastructure and configuration management tasks.
+   - Integrates Ansible with Jenkins for automated configuration management.
 
-6. Complete CI/CD Pipeline with EKS and AWS ECR
-Building a robust CI/CD pipeline for deploying containerized applications to AWS EKS and managing Docker images in AWS ECR.
+6. Complete CI-CD Pipeline with EKS and AWS ECR
+   - Sets up a complete CI/CD pipeline using EKS and AWS ECR.
 
-🌍 Connect with Me
-LinkedIn: linkedin.com/in/snehavardhandudaka
-GitHub: github.com/snehavardhandudaka
-Email: snehavardhan.dudaka@gmail.com
+## Contact
+- **LinkedIn**: Your LinkedIn Profile
+- **Email**: snehavardhan1996@gmail.com
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+
+---
+
+Thanks for visiting my GitHub profile! 😊
