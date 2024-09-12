@@ -36,7 +36,7 @@ Here are some of my real-time capstone projects:
    - Sets up a complete CI/CD pipeline using EKS and AWS ECR.
 
 ## Contact
-- **LinkedIn**: Sneha Vardhan Dudaka
+- **LinkedIn**: https://www.linkedin.com/in/sneha-vardhan-dudaka-1357a2259/
 - **Email**: snehavardhan1996@gmail.com
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
